@@ -1,0 +1,6 @@
+c:\users\lukasz\source\repos\StrategyExample\StrategyExample\bin\Debug\StrategyExample.exe.config
+c:\users\lukasz\source\repos\StrategyExample\StrategyExample\bin\Debug\StrategyExample.exe
+c:\users\lukasz\source\repos\StrategyExample\StrategyExample\bin\Debug\StrategyExample.pdb
+c:\users\lukasz\source\repos\StrategyExample\StrategyExample\obj\Debug\StrategyExample.csproj.CoreCompileInputs.cache
+c:\users\lukasz\source\repos\StrategyExample\StrategyExample\obj\Debug\StrategyExample.exe
+c:\users\lukasz\source\repos\StrategyExample\StrategyExample\obj\Debug\StrategyExample.pdb
